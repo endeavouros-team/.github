@@ -14,4 +14,4 @@ https://www.reddit.com/r/EndeavourOS/
 https://t.me/Endeavouros
 
 
-Because we are used to it we do handle all code over GitHub, you will find everything we do use on the ISO installer and for the EndeavourOS applications here at the repositories.
+Because we are used to it... we do handle all code over GitHub, you will find everything we do use on the ISO installer and for the EndeavourOS applications here at the repositories.
