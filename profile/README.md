@@ -1,4 +1,9 @@
+
+
 ## EndeavourOS
+
+<img src="https://raw.githubusercontent.com/endeavouros-team/screenshots/master/Artemis/Artemis-LiveSession.png" alt="EndeavourOS logo" width="250"/>
+
 
 Create your own destiny with an incredible journey
 
