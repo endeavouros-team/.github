@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/endeavouros-team/artwork-images-logo/master/icons/endeavouros.png" alt="banner" width="600"/>
+<img src="https://raw.githubusercontent.com/endeavouros-team/artwork-images-logo/master/icons/endeavouros.png" alt="banner" width="200"/>
 
 **Create your own destiny with an incredible journey**
 
