@@ -13,5 +13,14 @@ https://www.reddit.com/r/EndeavourOS/
 
 https://t.me/Endeavouros
 
+To contribute to our development check:
 
-Because we are used to it... we do handle all code over GitHub, you will find everything we do use on the ISO installer and for the EndeavourOS applications here at the repositories.
+https://github.com/endeavouros-team/EndeavourOS-ISO
+
+https://github.com/endeavouros-team/EndeavourOS-calamares
+
+and
+
+https://github.com/EndeavourOS-Community-Editions
+
+We're looking forward to collaborate with you.
