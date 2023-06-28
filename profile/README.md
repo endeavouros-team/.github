@@ -17,7 +17,7 @@ To contribute to our development check:
 
 https://github.com/endeavouros-team/EndeavourOS-ISO
 
-https://github.com/endeavouros-team/EndeavourOS-calamares
+https://github.com/endeavouros-team/calamares
 
 and
 
