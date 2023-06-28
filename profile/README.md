@@ -9,8 +9,6 @@ https://endeavouros.com/
 
 https://forum.endeavouros.com/
 
-https://www.reddit.com/r/EndeavourOS/
-
 https://t.me/Endeavouros
 
 To contribute to our development check:
