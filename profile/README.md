@@ -13,6 +13,8 @@ https://t.me/Endeavouros
 
 To contribute to our development check:
 
+https://endeavouros-team.github.io/EndeavourOS-Development
+
 https://github.com/endeavouros-team/EndeavourOS-ISO
 
 https://github.com/endeavouros-team/calamares
