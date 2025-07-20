@@ -6,7 +6,7 @@ If you like to roll up your sleeves and go on an adventure, then you might want 
 
 -- note 20 july 2025 --
 
-# **Because of a server problem, all 3 EndavourOS websites are not available at the moment,**
+# **Because of a server problem, all 3 EndavourOS websites are not available at the moment**
 
 **we are working on it, but it can take a bit.**
 
