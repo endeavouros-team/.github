@@ -10,11 +10,11 @@ If you like to roll up your sleeves and go on an adventure, then you might want 
 
 **we are working on it, but it can take a bit.**
 
-**In case you are searching for Download use this for torrent: 
+**In case you are searching for Download use this for torrent:**
 
 [Magnet Torrent ISO Download](https://www.kamprad.net/index.php/magnet-test-page/)
 
-**if you need direct download go here: 
+**if you need direct download go here:** 
 
 [Random-mirror](https://www.endeavour.kamprad.net/mirrormagic)
 
