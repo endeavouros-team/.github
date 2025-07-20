@@ -6,7 +6,15 @@ If you like to roll up your sleeves and go on an adventure, then you might want 
 
 -- note 20 july 2025 --
 **
-Because of a server problem, all 3 EndavourOS websites are not available at the moment, we are working on it, but it can take a bit.  In case you are searching for Download use this for torrent: Magnet Torrent ISO Download: https://www.kamprad.net/index.php/magnet-test-page/  if you need direct download go here: Random-mirror: https://www.endeavour.kamprad.net/mirrormagic [select a mirror randomly and start downloading latest ISO] ---> we are still not able to resolve the issue, can take a bit longer. Private life went in.
+Because of a server problem, all 3 EndavourOS websites are not available at the moment, 
+
+we are working on it, but it can take a bit.  
+
+In case you are searching for Download use this for torrent: Magnet Torrent ISO Download: https://www.kamprad.net/index.php/magnet-test-page/  
+
+if you need direct download go here: Random-mirror: https://www.endeavour.kamprad.net/mirrormagic [select a mirror randomly and start downloading latest ISO] 
+
+---> we are still not able to resolve the issue, can take a bit longer. Private life went in.
 **
 -- may active till 21/22 July 2025 --
 
