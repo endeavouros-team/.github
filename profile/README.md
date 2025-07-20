@@ -10,10 +10,15 @@ If you like to roll up your sleeves and go on an adventure, then you might want 
 
 **we are working on it, but it can take a bit.**
 
-**In case you are searching for Download use this for torrent: Magnet Torrent ISO Download:** https://www.kamprad.net/index.php/magnet-test-page/  
+**In case you are searching for Download use this for torrent: 
 
-**if you need direct download go here: Random-mirror:** https://www.endeavour.kamprad.net/mirrormagic 
-[select a mirror randomly and start downloading latest ISO]
+[Magnet Torrent ISO Download](https://www.kamprad.net/index.php/magnet-test-page/)
+
+**if you need direct download go here: 
+
+[Random-mirror](https://www.endeavour.kamprad.net/mirrormagic)
+
+[selects a mirror randomly and start downloading latest ISO]
 
 **the issue is not effecting installation from the ISO nor any updates related to packages, only forum, wiki and default information websites!**
 
