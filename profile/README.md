@@ -4,7 +4,7 @@
 
 If you like to roll up your sleeves and go on an adventure, then you might want to give us a try. EndeavourOS isn’t an expressway to a predefined destination in computing, it is all about the journey towards your own destination and on top of that, you’ll be meeting new and friendly faces during that exploration. Or more appropriate, your new Endeavour.
 
--- note 20 july 2025 --
+<--- note 20 july 2025:
 
 # **Because of a server problem, all 3 EndavourOS websites are not available at the moment**
 
@@ -15,9 +15,9 @@ If you like to roll up your sleeves and go on an adventure, then you might want 
 **if you need direct download go here: Random-mirror:** https://www.endeavour.kamprad.net/mirrormagic 
 [select a mirror randomly and start downloading latest ISO] 
 
-**---> we are still not able to resolve the issue, can take a bit longer. Private life went in.**
+**we are still not able to resolve the issue, can take a bit longer. Private life went in.**
 
--- may active till 21/22 July 2025 --
+---> [may active till 21/22 July 2025]
 
 https://endeavouros.com/
 
