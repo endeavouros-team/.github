@@ -13,7 +13,9 @@ If you like to roll up your sleeves and go on an adventure, then you might want 
 **In case you are searching for Download use this for torrent: Magnet Torrent ISO Download:** https://www.kamprad.net/index.php/magnet-test-page/  
 
 **if you need direct download go here: Random-mirror:** https://www.endeavour.kamprad.net/mirrormagic 
-[select a mirror randomly and start downloading latest ISO] 
+[select a mirror randomly and start downloading latest ISO]
+
+**the issue is not effecting installation from the ISO nor any updates related to packages, only forum, wiki and default information websites!**
 
 **we are still not able to resolve the issue, can take a bit longer. Private life went in.**
 
