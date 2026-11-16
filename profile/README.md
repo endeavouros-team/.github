@@ -24,4 +24,5 @@ chat: [https://t.me/Endeavouros](https://t.me/Endeavouros)
 **We're looking forward to collaborate with you.**
 
 <small>Donate to EndeavourOS on Open Collective</small>
+
 [![Donate to EndeavourOS on Open Collective](https://opencollective.com/endeavouros/donate/button.png?color=purple)](https://opencollective.com/endeavouros/donate)
