@@ -12,9 +12,7 @@ If you like to roll up your sleeves and go on an adventure, then you might want 
 
 [![Donate on Open Collective](https://opencollective.com/endeavouros/donate/button.png?color=blue)](https://opencollective.com/endeavouros/donate)
 
-To contribute to our development check:
-
-[https://endeavouros-team.github.io/EndeavourOS-Development](https://endeavouros-team.github.io/EndeavourOS-Development)
+**To contribute to our development check:**
 
 [https://github.com/endeavouros-team/EndeavourOS-ISO
 ](https://github.com/endeavouros-team/EndeavourOS-ISO
@@ -27,4 +25,7 @@ and
 [https://github.com/EndeavourOS-Community-Editions
 ](https://github.com/EndeavourOS-Community-Editions
 )
+
+[https://endeavouros-team.github.io/EndeavourOS-Development](https://endeavouros-team.github.io/EndeavourOS-Development)
+
 **We're looking forward to collaborate with you.**
