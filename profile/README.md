@@ -1,27 +1,30 @@
 <img src="https://raw.githubusercontent.com/endeavouros-team/artwork-images-logo/master/endeavouros-drop-shadow.png" alt="banner" width="200"/>
 
-[![Donate on Open Collective](https://opencollective.com/endeavouros/donate/button.png?color=blue)](https://opencollective.com/endeavouros/donate)
-
-**Create your own destiny with an incredible journey**
+## **Create your own destiny with an incredible journey**
 
 If you like to roll up your sleeves and go on an adventure, then you might want to give us a try. EndeavourOS isn’t an expressway to a predefined destination in computing, it is all about the journey towards your own destination and on top of that, you’ll be meeting new and friendly faces during that exploration. Or more appropriate, your new Endeavour.
 
-https://endeavouros.com/
+[https://endeavouros.com/](https://endeavouros.com/)
 
-https://forum.endeavouros.com/
+[https://forum.endeavouros.com/](https://forum.endeavouros.com/)
 
-https://t.me/Endeavouros
+[https://t.me/Endeavouros](https://t.me/Endeavouros)
+
+[![Donate on Open Collective](https://opencollective.com/endeavouros/donate/button.png?color=blue)](https://opencollective.com/endeavouros/donate)
 
 To contribute to our development check:
 
-https://endeavouros-team.github.io/EndeavourOS-Development
+[https://endeavouros-team.github.io/EndeavourOS-Development](https://endeavouros-team.github.io/EndeavourOS-Development)
 
-https://github.com/endeavouros-team/EndeavourOS-ISO
-
-https://github.com/endeavouros-team/calamares
-
+[https://github.com/endeavouros-team/EndeavourOS-ISO
+](https://github.com/endeavouros-team/EndeavourOS-ISO
+)
+[https://github.com/endeavouros-team/calamares
+](https://github.com/endeavouros-team/calamares
+)
 and
 
-https://github.com/EndeavourOS-Community-Editions
-
-We're looking forward to collaborate with you.
+[https://github.com/EndeavourOS-Community-Editions
+](https://github.com/EndeavourOS-Community-Editions
+)
+**We're looking forward to collaborate with you.**
