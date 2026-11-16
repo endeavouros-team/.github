@@ -25,4 +25,3 @@ chat: [https://t.me/Endeavouros](https://t.me/Endeavouros)
 
 [![Donate to EndeavourOS on Open Collective](https://opencollective.com/endeavouros/donate/button.png?color=purple)](https://opencollective.com/endeavouros/donate)
 
-> <sub>Donate to EndeavourOS on Open Collective</sub>
