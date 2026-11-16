@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/endeavouros-team/artwork-images-logo/master/endeavouros-drop-shadow.png" alt="banner" width="200"/>
 
+[![Donate on Open Collective](https://opencollective.com/endeavouros/donate/button.png?color=blue)](https://opencollective.com/endeavouros/donate)
+
 **Create your own destiny with an incredible journey**
 
 If you like to roll up your sleeves and go on an adventure, then you might want to give us a try. EndeavourOS isn’t an expressway to a predefined destination in computing, it is all about the journey towards your own destination and on top of that, you’ll be meeting new and friendly faces during that exploration. Or more appropriate, your new Endeavour.
