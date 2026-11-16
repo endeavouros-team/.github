@@ -10,22 +10,20 @@ If you like to roll up your sleeves and go on an adventure, then you might want 
 
 [https://t.me/Endeavouros](https://t.me/Endeavouros)
 
-[![Donate on Open Collective](https://opencollective.com/endeavouros/donate/button.png?color=blue)](https://opencollective.com/endeavouros/donate)
 
 **To contribute to our development check:**
 
-[https://github.com/endeavouros-team/EndeavourOS-ISO
-](https://github.com/endeavouros-team/EndeavourOS-ISO
-)
-[https://github.com/endeavouros-team/calamares
-](https://github.com/endeavouros-team/calamares
-)
-and
+[https://github.com/endeavouros-team/EndeavourOS-ISO](https://github.com/endeavouros-team/EndeavourOS-ISO)
 
-[https://github.com/EndeavourOS-Community-Editions
-](https://github.com/EndeavourOS-Community-Editions
-)
+[https://github.com/endeavouros-team/calamares](https://github.com/endeavouros-team/calamares)
+
+[https://github.com/EndeavourOS-Community-Editions](https://github.com/EndeavourOS-Community-Editions)
 
 [https://endeavouros-team.github.io/EndeavourOS-Development](https://endeavouros-team.github.io/EndeavourOS-Development)
 
 **We're looking forward to collaborate with you.**
+
+---
+
+
+[![Donate on Open Collective](https://opencollective.com/endeavouros/donate/button.png?color=blue)](https://opencollective.com/endeavouros/donate)
